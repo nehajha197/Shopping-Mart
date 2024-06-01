@@ -8,7 +8,7 @@ export const items = [
     title: "Apple iPhone 14",
     imgSrc: i1,
     amazonLink: "https://amzn.to/3PuckZp",
-    description: "Apple iPhone 14(128 GB) - Blue",
+    description: "Apple iPhone 14(128 GB) - Blue, Storm Grey with Precision Pen 3",
     price: "89999",
   },
   {
@@ -35,7 +35,7 @@ export const items = [
     title: "Apple iPhone 11",
     imgSrc: i1,
     amazonLink: "https://amzn.to/44MiYi6",
-    description: "Apple iPhone 11 (64GB) - White",
+    description: "Apple iPhone 11 (64GB) - White, 8 GB, 256 GB, Wi-Fi Only), Storm Grey with Precision Pen 3",
     price: "79999",
   },
   {
@@ -53,7 +53,7 @@ export const items = [
     title: "Apple iPhone 13",
     imgSrc: i1,
     amazonLink: "https://amzn.to/3r6XJtv",
-    description: "Apple iPhone 13 (128GB) - Blue",
+    description: "Apple iPhone 13 (128GB) - Blue, Storm Grey with Precision Pen 3",
     price: "69999",
   },
   {
@@ -89,7 +89,7 @@ export const items = [
     title: "Samsung Galaxy S21",
     imgSrc: i1,
     amazonLink: "https://amzn.to/3G5PdeX",
-    description: "Samsung Galaxy S21 5G (128GB) - Phantom Gray",
+    description: "Samsung Galaxy S21 5G (128GB) - Phantom Gray, Storm Grey with Precision Pen 3",
     price: "69999",
   },
   {
