@@ -13,9 +13,9 @@ const Navbar = ({ setData, cart }) => {
     setData(element);
   };
 
-  const filterByPrice = (price) => {
-    const element = items.filter((product) => product.price >= price);
-    setData(element);
+  const filterByPrice = (price) => { 
+    const element = items.filter((product) => product.price >= price); 
+    setData(element); 
   };
 
   const handleSubmit = (e) => {
